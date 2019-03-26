@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/ch05/ch05_test6.js",
+            "program": "${workspaceRoot}/ch05/ch05_test7.js",
             "cwd": "${workspaceFolder}"
         }
     ]
